@@ -1,26 +1,30 @@
 # 区块链技术图谱
+[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+[![GitHub watchers](https://img.shields.io/github/watchers/cancerts/awesome-blockchain.svg?style=flat&label=Watch)](https://github.com/cancerts/awesome-blockchain/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/cancerts/awesome-blockchain.svg?style=flat&label=Star)](https://github.com/cancerts/awesome-blockchain/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/cancerts/awesome-blockchain.svg?style=flat&label=Fork)](https://github.com/cancerts/awesome-blockchain/fork)
 
 ## 区块链基础知识
 
 ### 区块链基本概念
-* 区块
-* 账本
-* 共识
-* 去中心化
-  * DAPP
-* 智能合约
-  * smart contract
-  * chaincode
-* 挖矿
-  * 矿池
-  * 旷工
-  * 矿机
-* token（代币）
-  * ICO
-* 钱包
-  * 核心客户端
-  * 轻量钱包
-* 交易所
+* [区块](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#区块)
+* [账本](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#账本)
+* [共识](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#共识)
+* [去中心化](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#去中心化)
+  * [DAPP](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#DAPP)
+* [智能合约](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#智能合约)
+  * [smart-contract](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#smart-contract)
+  * [chaincode](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#chaincode)
+* [挖矿](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#挖矿)
+  * [矿池](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#矿池)
+  * [旷工](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#旷工)
+  * [矿机](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#矿机)
+* [token（代币）](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#token（代币）)
+  * [ICO](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#ICO)
+* [钱包](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#钱包)
+  * [核心客户端](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#核心客户端)
+  * [轻量钱包](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#轻量钱包)
+* [交易所](https://github.com/cancerts/Awesome-Blockchain/blob/master/README.md#交易所)
 
 ### 密码学
 * 哈希算法
@@ -88,10 +92,10 @@
 * 协议
   * TCP/IP
   * UDP
-* p2p网络的数据结构与算法
+* 数据结构与算法
   * 非机构化p2p系统
   * 结构化p2p系统
-    * 分布式哈希表（DHT）简介
+    * 分布式哈希表（DHT）
     * DHT 协议
     * 哈希算法
     * 路由算法
@@ -99,7 +103,6 @@
 
 -------------------------
 ## 区块链代表
----------------------
 
 # 比特币
 
@@ -153,6 +156,7 @@
   * 环境准备
   * 实例
 
+-------------------
 # 以太坊
   
 * 链接 
@@ -225,7 +229,7 @@
     * Etherjar
     * Nethereum
     * ethers.js
-    
+ --------------------   
 # 超级账本
 * 链接 
   * 官网
